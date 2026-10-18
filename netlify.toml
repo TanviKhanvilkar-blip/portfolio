@@ -1,0 +1,4 @@
+# Plain HTML/CSS/JS site: no build step, publish the folder as-is.
+[build]
+  publish = "."
+  command = ""
